@@ -2,7 +2,7 @@
 
 The aim was to build this single page app notes using self rendering components, similar to React. However we were restricted using vanilla javascript without any third party framework which meant we had to create our own test suite in order to test drive the development.
 
-To guide the team on how to write these components this example [repo] (https://github.com/becc-mu/component-example) was created.
+To guide the team on how to write these components this example [repo](https://github.com/becc-mu/component-example) was created.
 
 ## Collaboration processes
 
@@ -48,7 +48,7 @@ When making commits it is useful to include in the commit messsge which issues h
 fixes #45
 fixes #63
 ```
-“fixes” is a keyword which is required for this to work. [github guidance on this] (https://help.github.com/articles/closing-issues-using-keywords/)
+“fixes” is a keyword which is required for this to work. [github guidance on this](https://help.github.com/articles/closing-issues-using-keywords/)
 
 For the first push the upstream flag needs to be used.
 
